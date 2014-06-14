@@ -4,3 +4,4 @@
 output/
 .ropeproject/
 .doit.db
+cache/.mako.tmp
