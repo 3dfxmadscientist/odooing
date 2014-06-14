@@ -1,0 +1,2 @@
+Sitemap: http://dreispt.github.io/odooing/sitemapindex.xml
+
