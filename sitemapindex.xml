@@ -5,10 +5,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://dreispt.github.io/odooing/galleries/rss.xml</loc>
-  <lastmod>2014-06-14</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dreispt.github.io/odooing/rss.xml</loc>
   <lastmod>2014-06-14</lastmod>
  </sitemap>
