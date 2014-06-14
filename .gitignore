@@ -3,4 +3,4 @@
 *.swp
 output/
 .ropeproject/
-*.pid
+.doit.db
