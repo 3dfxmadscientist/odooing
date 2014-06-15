@@ -6,4 +6,13 @@
 .. description: 
 .. type: text
 
-Write your post here.
+It's been a week now from this year's OpenDays.
+It was an intense and action packed event.
+Lot's of things could be learned from the talks,
+but most important of all, it's great to meet in person
+all these people we communicate with all the time.
+
+The presentations are being uploaded to `Slideshare <http://www.slideshare.net/openobject>`_
+and the the main theater talks were also recorded on `video <https://www.youtube.com/user/OpenERPonline>`_.
+But you probably already know this, so maybe I could share something better:
+the main messages I got regarding Odoo's strategy and direction.
