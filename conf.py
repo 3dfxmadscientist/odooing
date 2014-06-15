@@ -26,7 +26,7 @@ SITE_URL = "http://dreispt.github.io/odooing/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "dreispt.github.io/odooing"
 BLOG_EMAIL = "dgreis@sapo.pt"
-BLOG_DESCRIPTION = "Riding th Odoo wave."  # (translatable)
+BLOG_DESCRIPTION = "Riding the Odoo wave."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -659,7 +659,18 @@ COMMENT_SYSTEM_ID = "odooing"
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = """<script>
+BODY_END = """
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Odooing wide -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3675930181846077"
+     data-ad-slot="1582422923"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -668,7 +679,7 @@ BODY_END = """<script>
     ga('create', 'UA-51937980-1', 'dreispt.github.io');
     ga('send', 'pageview');
 
-</script> """
+</script>"""
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
