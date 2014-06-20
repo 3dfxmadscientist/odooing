@@ -16,3 +16,71 @@ The presentations are being uploaded to `Slideshare <http://www.slideshare.net/o
 and the the main theater talks were also recorded on `video <https://www.youtube.com/user/OpenERPonline>`_.
 But you probably already know this, so maybe I could share something better:
 the main messages I got regarding Odoo's strategy and direction.
+
+
+**OpenERP is now Odoo, but the focus is still ERP**
+
+There is a strategic bet on the new CMS and ecommerce features.
+But the company knows that it's the ERP backend that makes it different from competitors.
+
+The frontend features will not bring revenue by themselves - anynone can create a online shop
+just with the free plan.
+But tapping at the huge CMS market will bring more users.
+Some of them will eventually become paying customers, upgrading
+to take better advantage of the backend ERP apps.
+
+CMS and ecommerce aim at exploding the number of users, and the revenue will still be driven
+from the "classic" ERP features.
+
+
+**Smart marketing**
+
+This was for me the best news I got from the event: Alexandre Vandermeersch is the new
+Chief Marketing Officer and I believe he made a spot on diagnostic: the best marketing
+for Odoo is content marketing.
+
+Producing content for end users and developers: documentation, tutorials, white papers.
+Helping new people to get up and running faster with Odoo will support the overall strategy
+for user base growth, and it will be what the marketing team will be devoted to.
+
+More and better content, smart marketing, and great news.
+
+
+**Developers, developers, developers!**
+
+This was the line used by Antony Lesuisse.
+Odoo wants more developers working with the product.
+More developers means more modules and features, more mind share, more deployments,
+and in the end of the day, more users.
+
+So, the R&D will also put an effort on making Odoo more atractive to developers.
+This was determinant for the move to Github.
+It was not specifically mentioned, but I believe the new API will also paly an important role here:
+I heard some people mention it has similarities with Django.
+
+Also important here are the new "data" modules. These are just like regular modules,
+except they can't have python files in them.
+The news is that these will be installable in the Odoo SaaS, using a command line deploy instruction.
+
+These are meant to provide website themes and components, but they can also contain data, XML views
+and even create models and fields (adding record on *ir.model* and *ir.model.fields*).
+
+
+**How to burn 10 million dollars**
+
+This was actually said by Fabien when presenting the priorities for v9.
+While Fabien promises another revolution for v9, the priorities presented
+are mostly about rounding the corners for the user interface and for the
+the v8 novelties: website builder and new API.
+
+Right now, Odoo feels like having two user interfaces - one for frontend and another for the backend.
+Another investment area is to bring the frontend website capabilities to the backend views.
+This alone will make a huge difference for v9 so I'm really looking forward for it.
+
+Finally, for v9 there will also be an investing in the accounting area:
+the goal is for the core to support the account needs for 8 major countries,
+without third party localizations. In my opinion it's a start to address the localization
+issues. I still feel that the Partners and community should be given the main role here,
+but still it's acknowledging the problem and having steps forward.
+
+
