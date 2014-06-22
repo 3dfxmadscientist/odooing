@@ -1,7 +1,7 @@
 *.pid
 *.pyc
 *.swp
-output/
 .ropeproject/
 .doit.db
-cache/.mako.tmp
+cache/
+output/
