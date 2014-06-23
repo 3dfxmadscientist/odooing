@@ -1,7 +1,4 @@
-*.pid
-*.pyc
+*.lock
 *.swp
 .ropeproject/
-.doit.db
-cache/
-output/
+_site
